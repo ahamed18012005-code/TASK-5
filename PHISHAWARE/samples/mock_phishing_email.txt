@@ -1,0 +1,10 @@
+
+Subject: Urgent Account Verification Required
+
+This is a fictional phishing-awareness test email.
+
+Your account requires verification immediately. Failure to verify your account may result in suspension.
+
+Please review this example URL: https://example.com
+
+This sample is intended only for educational testing.
